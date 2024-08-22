@@ -1,21 +1,21 @@
 <?php
 echo '{ "users":[
             {
-                "firstName":"Martin",
-                "lastName":"White",
+                "firstName":"Adedamola",
+                "lastName":"Adegoke",
                 "joined": {
-                    "month":"July",
-                    "day":1,
-                    "year":1989
+                    "month":"October",
+                    "day":6,
+                    "year":2023
                 }
             },
             {
-                "firstName":"Zeeshan",
-                "lastName":"Patoli",
+                "firstName":"Adedamola",
+                "lastName":"Adegoke",
                 "joined": {
-                    "month":"January",
-                    "day":12,
-                    "year":2012
+                    "month":"October",
+                    "day":6,
+                    "year":2023
                 }
             }
     ]}
